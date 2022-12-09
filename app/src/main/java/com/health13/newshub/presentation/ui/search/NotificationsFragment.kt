@@ -1,4 +1,4 @@
-package com.health13.newshub.presentation.ui.notifications
+package com.health13.newshub.presentation.ui.search
 
 import android.os.Bundle
 import android.view.LayoutInflater

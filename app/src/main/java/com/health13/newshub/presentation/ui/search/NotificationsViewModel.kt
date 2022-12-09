@@ -1,4 +1,4 @@
-package com.health13.newshub.presentation.ui.notifications
+package com.health13.newshub.presentation.ui.search
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
